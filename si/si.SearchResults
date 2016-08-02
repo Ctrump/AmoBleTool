@@ -1,0 +1,6 @@
+---- mLeScanCallback Matches (5 in 0 files) ----
+DeviceScanActivity.java (src\com\example\bluetooth\le):            mBluetoothAdapter.stopLeScan(mLeScanCallback);
+DeviceScanActivity.java (src\com\example\bluetooth\le):                    mBluetoothAdapter.stopLeScan(mLeScanCallback);
+DeviceScanActivity.java (src\com\example\bluetooth\le):            mBluetoothAdapter.startLeScan(mLeScanCallback);
+DeviceScanActivity.java (src\com\example\bluetooth\le):            mBluetoothAdapter.stopLeScan(mLeScanCallback);
+DeviceScanActivity.java (src\com\example\bluetooth\le):    private BluetoothAdapter.LeScanCallback mLeScanCallback =

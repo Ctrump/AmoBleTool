@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\AmoBleTool\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\Android\\Projects\\AmoBleTool\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\AmoBleTool\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\Projects\\AmoBleTool\\res\\menu\\main.xml"
+    }
+]

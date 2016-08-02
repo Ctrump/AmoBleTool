@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\AmoBleTool\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\Android\\Projects\\AmoBleTool\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\AmoBleTool\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "D:\\Android\\Projects\\AmoBleTool\\res\\layout\\detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\AmoBleTool\\build\\intermediates\\res\\merged\\debug\\layout\\other.xml",
+        "source": "D:\\Android\\Projects\\AmoBleTool\\res\\layout\\other.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\AmoBleTool\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "D:\\Android\\Projects\\AmoBleTool\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\AmoBleTool\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "D:\\Android\\Projects\\AmoBleTool\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\AmoBleTool\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\Android\\Projects\\AmoBleTool\\res\\layout\\listitem_device.xml"
+    }
+]
